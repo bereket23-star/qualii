@@ -1,0 +1,7 @@
+{
+  "appId": "org.qualiexambank.app",
+  "appName": "Quali Exam Bank",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "android": { "allowMixedContent": false }
+}
